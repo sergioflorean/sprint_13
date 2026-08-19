@@ -1,0 +1,11 @@
+[
+  { "id": 1, "name": "tierra", "distanceFromSun": 57.9 },
+  { "id": 2, "name": "Venus", "distanceFromSun": 108.2 },
+  { "id": 3, "name": "Earth", "distanceFromSun": 149.6 },
+  { "id": 4, "name": "Mars", "distanceFromSun": 227.9 },
+  { "id": 5, "name": "Jupiter", "distanceFromSun": 778.3 },
+  { "id": 6, "name": "Saturn", "distanceFromSun": 1427 },
+  { "id": 7, "name": "Uranus", "distanceFromSun": 2871 },
+  { "id": 8, "name": "Neptune", "distanceFromSun": 4497 },
+  { "id": 9, "name": "Pluto", "distanceFromSun": 5906 }
+]
