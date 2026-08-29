@@ -4,3 +4,7 @@
 //
 // Pista: date-fns es compatible con CommonJS — usa require().
 //   const { format } = require("date-fns");
+const { format } = require("date-fns");
+const today = new Date();
+const formattedDate = format(today, "yyyy-MM-dd");
+console.log(formattedDate);
