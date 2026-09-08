@@ -12,6 +12,9 @@ const port = 3000;
 app.use(express.json());
 //middleware para parsear datos codificados en URL
 app.use(express.urlencoded({ extended: true }));
+// Servir archivos estáticos desde la carpeta 'public'
+app.use(express.static("public"));
+
 
 //rutas principales 
 app.use(logRequest);

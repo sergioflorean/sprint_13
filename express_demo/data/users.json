@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Valentina Rojas",
+    "role": "Desarrolladora Frontend"
+  },
+  {
+    "id": 2,
+    "name": "Diego Vargas",
+    "role": "Ingeniero Backend"
+  },
+  {
+    "id": 3,
+    "name": "Camila Mendoza",
+    "role": "Desarrolladora Full Stack"
+  }
+]
